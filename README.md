@@ -11,7 +11,7 @@ Click button.
 
 Texts:
 Timer, will show you how much time you have left until the game is over.
-Clicks, that will show how much clicks you have done at the button.
+Clicks will show how much clicks you have done at the button.
 
 How does the buttons work?
 Start button will start the countdown when you press it and Clicks will show how much clicks you will do until time runs out.
