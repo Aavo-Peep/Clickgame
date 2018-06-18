@@ -6,7 +6,7 @@ Clickgame is a simple game made by Aavo-Peep Bedov.
 The game is really basic.
 When you start the game then it will show you a Empty activity whit few buttons and texts.
 Game has two buttons:
-Start button
+Start button,
 Click button.
 
 Texts:
